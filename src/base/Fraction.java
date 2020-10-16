@@ -1,3 +1,5 @@
+package base;
+
 public class Fraction {
     private int numerator;		//attributes
     private int denominator;
